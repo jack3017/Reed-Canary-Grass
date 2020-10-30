@@ -1,0 +1,15 @@
+Sprint 1: 
+	Scrum Master: 	Jack McConnell
+	Scrum Dates: 	
+	Sprint Goal:	Gain an understanding of the data, seperate the photo data into plots
+	Product Log:	"This is the log of all tasks and features." - features we've done? features we did this sprint? features we came up with this sprint to do later?
+	Member Task:	"The Sprint task for each member is recorded." - same questions as above
+	Scrum Record:	I'll put stuff here when we actually accomplish something I guess
+
+Sprint 2: 
+	Scrum Master: 	Mason Hall
+	Scrum Dates: 	
+	Sprint Goal:	
+	Product Log:	
+	Member Task:	
+	Scrum Record:	
