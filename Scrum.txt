@@ -7,9 +7,9 @@ Sprint 1:
 	Scrum Record:	I'll put stuff here when we actually accomplish something I guess
 
 Sprint 2: 
-	Scrum Master: 	Mason Hall
-	Scrum Dates: 	
-	Sprint Goal:	
+	Scrum Master: 	Jack McConnell
+	Scrum Dates: 	Winter Break
+	Sprint Goal:	Re-seperate the photos into INDIVIDUAL .tif files, figure out how to perform (even rudimentary) spectral pattern recognition on a .tif file, make a basic script than can perform the analysis on each plot file and export data to a different file (that part should be simple-ish)
 	Product Log:	
 	Member Task:	
 	Scrum Record:	
